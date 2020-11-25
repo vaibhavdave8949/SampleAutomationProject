@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [AutomationPractice]">
+  <listeners>
+    <listener class-name="com.automationpractice.utilities.Reporting"/>
+  </listeners>
+  <test thread-count="5" name="Automation_Practice Test(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.automationpractice.testCases.TC_Login_02">
+        <methods>
+          <include name="setup"/>
+          <include name="loginDDT" invocation-numbers="1"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- com.automationpractice.testCases.TC_Login_02 -->
+    </classes>
+  </test> <!-- Automation_Practice Test(failed) -->
+</suite> <!-- Failed suite [AutomationPractice] -->
