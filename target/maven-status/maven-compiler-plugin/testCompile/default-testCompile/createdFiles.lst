@@ -1,5 +1,6 @@
 com\automationpractice\utilities\XLUtils.class
 com\automationpractice\testCases\BaseClass.class
+com\automationpractice\testCases\TC_Create_Account_01.class
 com\automationpractice\testCases\TC_Login_01.class
 com\automationpractice\utilities\Reporting.class
 com\automationpractice\testCases\TC_Login_02.class

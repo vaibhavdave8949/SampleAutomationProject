@@ -1,88 +1,22 @@
-2020-10-22 11:54:05,105 - AutomationPrctice -INFO - URL opened
-2020-10-22 11:54:07,289 - AutomationPrctice -INFO - Sign in button clicked on homepage
-2020-10-22 11:54:11,700 - AutomationPrctice -INFO - submit button clicked
-2020-10-23 10:23:11,016 - AutomationPrctice -INFO - URL opened
-2020-10-23 10:23:14,447 - AutomationPrctice -INFO - Sign in button clicked on homepage
-2020-10-23 10:23:20,426 - AutomationPrctice -INFO - submit button clicked
-2020-10-23 10:43:34,995 - AutomationPrctice -INFO - URL opened
-2020-10-23 10:43:39,327 - AutomationPrctice -INFO - Sign in button clicked on homepage
-2020-10-23 10:43:42,822 - AutomationPrctice -INFO - submit button clicked
-2020-10-27 11:20:05,318 - AutomationPrctice -INFO - Sign in button clicked on homepage
-2020-10-27 11:20:14,060 - AutomationPrctice -INFO - submit button clicked
-2020-10-27 11:28:50,623 - AutomationPrctice -INFO - Sign in button clicked on homepage
-2020-10-27 11:28:53,396 - AutomationPrctice -INFO - submit button clicked
-2020-10-27 11:28:56,876 - AutomationPrctice -INFO - Sign out button clicked
-2020-10-27 11:29:05,974 - AutomationPrctice -INFO - Sign in button clicked on homepage
-2020-10-27 11:29:08,547 - AutomationPrctice -INFO - submit button clicked
-2020-10-27 11:42:37,267 - AutomationPrctice -INFO - URL opened
-2020-10-27 11:42:39,299 - AutomationPrctice -INFO - Sign in button clicked on homepage
-2020-10-27 11:42:43,455 - AutomationPrctice -INFO - submit button clicked
-2020-10-27 11:44:43,335 - AutomationPrctice -INFO - URL opened
-2020-10-27 11:44:45,045 - AutomationPrctice -INFO - Sign in button clicked on homepage
-2020-10-27 11:44:48,373 - AutomationPrctice -INFO - submit button clicked
-2020-10-27 11:50:11,827 - AutomationPrctice -INFO - Sign in button clicked on homepage
-2020-10-27 11:50:16,771 - AutomationPrctice -INFO - submit button clicked
-2020-10-27 11:50:20,848 - AutomationPrctice -INFO - Sign out button clicked
-2020-10-27 11:50:28,997 - AutomationPrctice -INFO - Sign in button clicked on homepage
-2020-10-27 11:50:31,698 - AutomationPrctice -INFO - submit button clicked
-2020-10-27 11:50:31,762 - AutomationPrctice -INFO - Authentication Failed, Please enter valid credentials
-2020-10-27 12:06:45,449 - AutomationPrctice -INFO - URL opened
-2020-10-27 12:06:48,781 - AutomationPrctice -INFO - Sign in button clicked on homepage
-2020-10-27 12:06:56,411 - AutomationPrctice -INFO - submit button clicked
-2020-11-05 11:18:50,296 - AutomationPrctice -INFO - Sign in button clicked on homepage
-2020-11-05 11:18:52,688 - AutomationPrctice -INFO - submit button clicked
-2020-11-05 11:18:56,017 - AutomationPrctice -INFO - Sign out button clicked
-2020-11-05 11:19:03,105 - AutomationPrctice -INFO - Sign in button clicked on homepage
-2020-11-05 11:19:05,201 - AutomationPrctice -INFO - submit button clicked
-2020-11-05 11:19:05,302 - AutomationPrctice -INFO - Authentication Failed, Please enter valid credentials
-2020-11-05 11:29:53,258 - AutomationPrctice -INFO - Sign in button clicked on homepage
-2020-11-05 11:29:56,238 - AutomationPrctice -INFO - submit button clicked
-2020-11-05 11:29:59,504 - AutomationPrctice -INFO - Sign out button clicked
-2020-11-05 11:30:08,421 - AutomationPrctice -INFO - Sign in button clicked on homepage
-2020-11-05 11:30:10,453 - AutomationPrctice -INFO - submit button clicked
-2020-11-05 11:30:10,530 - AutomationPrctice -INFO - Authentication Failed, Please enter valid credentials
-2020-11-05 11:32:59,417 - AutomationPrctice -INFO - Sign in button clicked on homepage
-2020-11-05 11:33:02,018 - AutomationPrctice -INFO - submit button clicked
-2020-11-05 11:33:06,024 - AutomationPrctice -INFO - Sign out button clicked
-2020-11-05 11:33:13,703 - AutomationPrctice -INFO - Sign in button clicked on homepage
-2020-11-05 11:33:16,031 - AutomationPrctice -INFO - submit button clicked
-2020-11-05 11:33:16,114 - AutomationPrctice -INFO - Authentication Failed, Please enter valid credentials
-2020-11-05 11:41:02,640 - AutomationPrctice -INFO - Sign in button clicked on homepage
-2020-11-05 11:41:05,944 - AutomationPrctice -INFO - submit button clicked
-2020-11-05 11:41:09,211 - AutomationPrctice -INFO - Sign out button clicked
-2020-11-05 11:41:16,939 - AutomationPrctice -INFO - Sign in button clicked on homepage
-2020-11-05 11:41:18,902 - AutomationPrctice -INFO - submit button clicked
-2020-11-05 11:41:18,973 - AutomationPrctice -INFO - Authentication Failed, Please enter valid credentials
-2020-11-06 10:48:55,952 - AutomationPrctice -INFO - URL opened
-2020-11-06 10:49:02,296 - AutomationPrctice -INFO - Sign in button clicked on homepage
-2020-11-06 10:49:07,025 - AutomationPrctice -INFO - submit button clicked
-2020-11-06 11:55:07,824 - AutomationPrctice -INFO - URL opened
-2020-11-06 11:55:10,001 - AutomationPrctice -INFO - Sign in button clicked on homepage
-2020-11-06 11:55:15,969 - AutomationPrctice -INFO - submit button clicked
-2020-11-06 11:56:54,170 - AutomationPrctice -INFO - URL opened
-2020-11-06 11:56:55,937 - AutomationPrctice -INFO - Sign in button clicked on homepage
-2020-11-06 11:57:01,929 - AutomationPrctice -INFO - submit button clicked
-2020-11-08 08:06:16,767 - AutomationPrctice -INFO - URL opened
-2020-11-08 08:06:18,779 - AutomationPrctice -INFO - Sign in button clicked on homepage
-2020-11-08 08:06:22,582 - AutomationPrctice -INFO - submit button clicked
-2020-11-08 08:15:24,699 - AutomationPrctice -INFO - URL opened
-2020-11-08 08:15:26,989 - AutomationPrctice -INFO - Sign in button clicked on homepage
-2020-11-08 08:15:30,627 - AutomationPrctice -INFO - submit button clicked
-2020-11-10 09:19:34,425 - AutomationPrctice -INFO - URL opened
-2020-11-10 09:19:36,106 - AutomationPrctice -INFO - Sign in button clicked on homepage
-2020-11-10 09:19:39,769 - AutomationPrctice -INFO - submit button clicked
-2020-11-10 10:18:49,570 - AutomationPrctice -INFO - URL opened
-2020-11-10 10:18:50,996 - AutomationPrctice -INFO - Sign in button clicked on homepage
-2020-11-10 10:18:54,614 - AutomationPrctice -INFO - submit button clicked
-2020-11-10 10:41:38,777 - AutomationPrctice -INFO - URL opened
-2020-11-10 10:41:41,205 - AutomationPrctice -INFO - Sign in button clicked on homepage
-2020-11-10 10:41:45,686 - AutomationPrctice -INFO - submit button clicked
-2020-11-13 09:25:33,858 - AutomationPrctice -INFO - URL opened
-2020-11-13 09:25:37,734 - AutomationPrctice -INFO - Sign in button clicked on homepage
-2020-11-13 09:25:45,208 - AutomationPrctice -INFO - submit button clicked
-2020-11-15 09:16:51,617 - AutomationPrctice -INFO - URL opened
-2020-11-15 09:17:05,370 - AutomationPrctice -INFO - Sign in button clicked on homepage
-2020-11-15 09:17:18,517 - AutomationPrctice -INFO - submit button clicked
-2020-11-20 08:19:59,433 - AutomationPrctice -INFO - URL opened
-2020-11-20 08:20:01,501 - AutomationPrctice -INFO - Sign in button clicked on homepage
-2020-11-20 08:20:09,035 - AutomationPrctice -INFO - submit button clicked
+2020-12-20 13:12:28,674 - AutomationPrctice -INFO - Sign in button clicked on homepage
+2020-12-20 13:12:31,045 - AutomationPrctice -INFO - submit button clicked
+2020-12-20 13:12:34,294 - AutomationPrctice -INFO - Sign out button clicked
+2020-12-20 13:12:46,374 - AutomationPrctice -INFO - Sign in button clicked on homepage
+2020-12-20 13:12:47,941 - AutomationPrctice -INFO - submit button clicked
+2020-12-20 13:12:48,004 - AutomationPrctice -INFO - Authentication Failed, Please enter valid credentials
+2020-12-20 13:13:21,956 - AutomationPrctice -INFO - Sign in button clicked
+2020-12-20 13:13:23,325 - AutomationPrctice -INFO - Email Entered
+2020-12-20 13:13:23,432 - AutomationPrctice -INFO - Created Account button clicked
+2020-12-20 13:13:25,065 - AutomationPrctice -INFO - Gender option clicked
+2020-12-20 13:13:25,238 - AutomationPrctice -INFO - First Name entered
+2020-12-20 13:13:25,401 - AutomationPrctice -INFO - LastName entered
+2020-12-20 13:13:30,476 - AutomationPrctice -INFO - Email field validation done
+2020-12-20 13:13:30,959 - AutomationPrctice -INFO - Password entered
+2020-12-20 13:13:31,377 - AutomationPrctice -INFO - Day selected
+2020-12-20 13:13:31,569 - AutomationPrctice -INFO - Month selected
+2020-12-20 13:13:31,705 - AutomationPrctice -INFO - Year selected
+2020-12-20 13:13:32,238 - AutomationPrctice -INFO - Scrolling done
+2020-12-20 13:13:32,302 - AutomationPrctice -INFO - Firstname Lastname validation done.....
+2020-12-20 13:13:32,302 - AutomationPrctice -INFO - Entering Company Details
+2020-12-20 13:13:38,833 - AutomationPrctice -INFO - Country selected
+2020-12-20 13:13:44,892 - AutomationPrctice -INFO - Address Alias enetered

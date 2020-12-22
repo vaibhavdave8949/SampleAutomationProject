@@ -8,7 +8,8 @@
 	<test name="Automation_Practice Test">
 		<parameter name="browser" value="chrome" />
 		<classes>
-			  <class name="com.automationpractice.testCases.TC_Login_01" />
+			<class name="com.automationpractice.testCases.TC_Login_02" />
+			  <class name="com.automationpractice.testCases.TC_Create_Account_01" />
 		</classes>
 
 	</test>

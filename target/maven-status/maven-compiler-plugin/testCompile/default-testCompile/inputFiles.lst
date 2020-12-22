@@ -2,6 +2,7 @@ F:\automationPractice\src\test\java\com\automationpractice\pageObject\CreateAcco
 F:\automationPractice\src\test\java\com\automationpractice\testCases\TC_Login_02.java
 F:\automationPractice\src\test\java\com\automationpractice\utilities\XLUtils.java
 F:\automationPractice\src\test\java\com\automationpractice\utilities\ReadConfig.java
+F:\automationPractice\src\test\java\com\automationpractice\testCases\TC_Create_Account_01.java
 F:\automationPractice\src\test\java\com\automationpractice\pageObject\LoginToMyStorePage.java
 F:\automationPractice\src\test\java\com\automationpractice\utilities\Reporting.java
 F:\automationPractice\src\test\java\com\automationpractice\testCases\BaseClass.java
